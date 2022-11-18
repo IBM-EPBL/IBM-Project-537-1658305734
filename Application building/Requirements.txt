@@ -1,0 +1,4 @@
+Anaconda Navigator 
+Tensor flow
+Keras 
+Flask
